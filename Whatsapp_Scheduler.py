@@ -2,8 +2,8 @@ import pyautogui
 import time
 
 # Set the phone number and message to send
-phone_number = "+91 93815 72034"
-message = "Hello, World!"
+phone_number = "Your_Number"
+message = "Your_Message"
 
 # Set the time to send the message (in 24-hour format)
 send_time = "12:36:00"
